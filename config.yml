@@ -1,0 +1,12 @@
+config:
+  ## Type serveur : Lobby, Hub, etc...
+  type-serveur: "Lobby"
+  
+  ## Numéro de serv. Exemple : 1 pou Lobby 1, etc...
+  numero: "1"
+  
+  ## Adresse du site du serveur
+  adresse-site: "www.ariacraft.net"
+  
+  ## ip du serveur
+  ip-srv: "mc.ariacraft.net"
